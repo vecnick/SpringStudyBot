@@ -1,4 +1,4 @@
-package nick.config;
+package nick.studyBot.config;
 
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Value;
